@@ -6,7 +6,6 @@ The idea is to quickly check *where the energy is going* and how much 💸 you�
 ---
 
 ## ✨ Features
-- Add / remove appliances dynamically  
 - Set appliance power rating (Watts) and daily usage hours  
 - Auto-calculates daily kWh usage  
 - Estimates **daily electricity cost** based on your country’s price  
